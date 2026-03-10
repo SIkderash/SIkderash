@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashraful Islam Shanto Sikder</h1>
-<h3 align="center">Currently studying Software Engineering at IIT, University of Dhaka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
